@@ -8,6 +8,6 @@ while True:
 
     if login == "First":
         print("Welcome back, First!")
-        break  # Exit the loop if correct login
+        break
     else:
         print("Error: Invalid login. Please try again.")
